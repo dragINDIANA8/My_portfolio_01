@@ -153,7 +153,7 @@
         .footer {
             display: flex;
             padding: 23px 123px;
-            justify-content: space-evenly;
+            justify-content: center;
         }
         .footer ul{
             list-style: none;
